@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Back-End Stack
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+Cowork tools
 
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
