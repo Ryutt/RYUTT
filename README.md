@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Back-End Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 Cowork tools
 
